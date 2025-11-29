@@ -1,0 +1,7 @@
+timestamp: 2025-11-29 09:34:54
+dataset_shape: (30641, 25)
+best_regression_model: Linear Regression
+best_regression_r2: 1.0
+best_classification_model: Decision Tree Classifier
+best_classification_accuracy: 1.0
+top_features: ['TotalScore', 'WritingScore', 'MathScore', 'ReadingScore', 'NrSiblings']

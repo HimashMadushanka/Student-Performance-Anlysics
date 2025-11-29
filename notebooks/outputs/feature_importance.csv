@@ -1,0 +1,56 @@
+feature,importance
+TotalScore,3.182735088904561
+WritingScore,3.0781531309243197
+MathScore,3.063436943015931
+ReadingScore,2.930821705008703
+NrSiblings,4.2685678997023875e-15
+SiblingCategory_One Sibling,2.4084541510034673e-15
+IsFirstChild_yes,2.131623134459892e-15
+IsFirstChild_no,2.0226196787201542e-15
+Gender_male,1.6662965611317262e-15
+Gender_female,1.5552101237229437e-15
+ScoreBalance,1.4765942597567853e-15
+HighPerformer,1.4640717233483539e-15
+EthnicGroup_group C,1.4328689091052692e-15
+ParentEduc_some high school,1.4281207263691504e-15
+PerformanceCategory_Good,1.419489344750333e-15
+ParentMaritalStatus_married,1.4148010620609106e-15
+SiblingCategory_Only Child,1.3522441819644162e-15
+ParentMaritalStatus_single,1.090839052391213e-15
+ParentEduc_high school,1.0273915639039608e-15
+WklyStudyHours_5 - 10,1.0041478092889432e-15
+PracticeSport_regularly,9.113705402479985e-16
+EthnicGroup_group D,8.244239349798914e-16
+ParentEduc_some college,7.758051390527104e-16
+ParentEduc_master's degree,6.911568272485026e-16
+WklyStudyHours_Numeric,6.412707116104563e-16
+PerformanceCategory_Poor,6.24398542009067e-16
+TransportMeans_school_bus,6.087511550835173e-16
+StrongestSubject_Reading,5.921131923633797e-16
+PracticeSport_never,5.361146144079925e-16
+WeakestSubject_Math,4.96086526949056e-16
+WeakestSubject_Reading,4.918673895798521e-16
+PerformanceCategory_Below Average,4.796859167494039e-16
+EthnicGroup_group B,4.602620866390003e-16
+EthnicGroup_group E,4.007502916691774e-16
+StrongestSubject_Math,3.8569212191596705e-16
+StrongestSubject_Writing,3.782160978370742e-16
+PerformanceCategory_Very Good,3.4768852016350977e-16
+EthnicGroup_group A,3.462308768668618e-16
+ParentEduc_bachelor's degree,3.3066728206751446e-16
+LunchType_standard,3.2449946821940687e-16
+SiblingCategory_2-3 Siblings,3.233753260770378e-16
+WklyStudyHours_< 5,2.8088892767073954e-16
+WeakestSubject_Writing,2.743498184560332e-16
+ParentMaritalStatus_widowed,1.922743948392169e-16
+PracticeSport_sometimes,1.6565458752333626e-16
+PerformanceCategory_Excellent,1.622786254083754e-16
+TestPrep_completed,1.393565419718751e-16
+SiblingCategory_4+ Siblings,1.3862783355612194e-16
+WklyStudyHours_> 10,1.348930826155752e-16
+PerformanceCategory_Average,1.096646435541223e-16
+TestPrep_none,1.045174064788722e-16
+ParentMaritalStatus_divorced,8.72833137359384e-17
+LunchType_free/reduced,8.028852821922257e-17
+ParentEduc_associate's degree,3.2813902451068404e-17
+TransportMeans_private,1.3233720762685969e-17
