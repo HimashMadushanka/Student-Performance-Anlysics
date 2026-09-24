@@ -75,14 +75,6 @@ A comprehensive data science project analyzing student performance data and buil
 - Model Persistence: Joblib
 
 
-## 🚀 Installation & Setup
-
-### Prerequisites
-- Python 3.8 or higher
-- Required Python package
-
-
-
 ## 📈 Model Performance
 
 ### Regression Models (Predicting Average Score)
