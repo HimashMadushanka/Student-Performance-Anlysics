@@ -5,7 +5,7 @@
 ## 📋 Project Overview
 A comprehensive data science project analyzing student performance data and building predictive models to identify key factors influencing academic success.
 
-
+![alt text](../notebooks/figures/score_distributions.png)
 
 ## 🎯 Objectives
 - Perform comprehensive EDA on student performance data
