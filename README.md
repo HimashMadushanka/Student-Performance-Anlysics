@@ -5,7 +5,7 @@
 ## 📋 Project Overview
 A comprehensive data science project analyzing student performance data and building predictive models to identify key factors influencing academic success.
 
-![alt text](../notebooks/figures/score_distributions.png)
+![alt text](notebooks/figures/score_distributions.png)
 
 ## 🎯 Objectives
 - Perform comprehensive EDA on student performance data
@@ -73,37 +73,6 @@ A comprehensive data science project analyzing student performance data and buil
 - Machine Learning: Scikit-learn
 - Interpretability: SHAP
 - Model Persistence: Joblib
-
-
-
-## 📁 File Structure
-
-student-performance-analysis/
-│
-├── data/
-│      └── row/                     
-│          └── student.csv
-│
-├── figures/ 
-│   ├── eda_visualizations.png    
-│   ├── shap_summary.png          
-│   ├── final_predictions.png     
-│   └── residual_distribution.png
-│
-├── notebooks/
-│    ├── student.ipynb  
-│    └── outputs  
-│         ├── cleaned_student.csv        
-│         ├── engineered_student.csv    
-│         ├── best_regression_model.pkl  
-│         ├── preprocessor.pkl          
-│         ├── model_results.csv         
-│         ├── feature_importance.csv    
-│         └── project_summary.txt       
-│
-└── reports/                     
-     └──README.md                    
-
 
 
 ## 🚀 Installation & Setup
